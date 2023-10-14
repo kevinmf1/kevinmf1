@@ -1,15 +1,17 @@
-- 👋 Hi, I’m @kevinmf1
-- 👀 I’m interested in Mobile Development and Web Development
-- 🌱 I’m currently learning Anything related to Programming
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me, dm me on telegram https://t.me/vinkevinz
-
-<!---
-kevinmf1/kevinmf1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmf1&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmf1&layout=compact&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
-
+### Hi, my name is Kevin and currently i'm focused on Fullstack Mobile Development.
 ![](https://komarev.com/ghpvc/?username=kevinmf1&color=red&style=flat)
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinmalikfajar) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kevinmf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kevinmf1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
