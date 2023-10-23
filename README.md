@@ -1,5 +1,5 @@
 ### Hi, my name is Kevin and currently i'm focused on Fullstack Mobile Development.
-![](https://komarev.com/ghpvc/?username=kevinmf1&color=red&style=flat)
+![](https://komarev.com/ghpvc/?username=kevinmf1&color=red&style=flat) ![](https://wakatime.com/badge/user/78996c8e-3e11-49fc-9814-e64bbb6d7f34.svg)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinmalikfajar) 
